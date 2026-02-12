@@ -5,12 +5,18 @@ Welcome to Agiens! We believe in practical coding challenges that test real-worl
 ## Available Challenges
 
 ### 🔍 File Path Parser Challenge
-**Repository:** [agiens/join-file-parser](https://github.com/agiens/join-file-parser)  
+**Location:** [challenges/file-parser/](./challenges/file-parser/)  
+**Standalone repo:** [agiens/join-file-parser](https://github.com/agiens/join-file-parser)  
 **Time:** 30-45 minutes  
 **Difficulty:** Medium  
 **Skills:** TypeScript, Regex, Edge Case Handling
 
 Fix a parser that extracts file paths from AI assistant output. Handle quoted filenames, escaped quotes, and special characters.
+
+**Why it matters:**
+- Real bug affecting production AI workflows
+- Filenames with spaces, Unicode, special characters break current implementation
+- Thousands of operations processed daily - every failure means lost work
 
 **What you'll learn:**
 - Regex pattern matching with complex edge cases
@@ -21,15 +27,32 @@ Fix a parser that extracts file paths from AI assistant output. Handle quoted fi
 
 ## How to Participate
 
-1. Choose a challenge from the list above
-2. Click the repository link
-3. Follow the README instructions
-4. Submit your solution via PR or share your repository
+### Option 1: Work in this repo (recommended)
+```bash
+git clone https://github.com/agiens/join.git
+cd join/challenges/file-parser
+npm install
+npm test
+```
+
+### Option 2: Use standalone repo
+```bash
+git clone https://github.com/agiens/join-file-parser.git
+cd join-file-parser
+npm install
+npm test
+```
+
+### Submit your solution
+1. Fork this repository or the standalone challenge repo
+2. Fix the code until all tests pass
+3. Commit your changes
+4. Create a pull request or share your repository link
+
+---
 
 ## Questions?
 
-Open an issue in the specific challenge repository or contact us at [your-contact].
-
----
+Open an issue in this repository or contact us.
 
 **Good luck!** 🚀
