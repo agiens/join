@@ -1,6 +1,6 @@
-# OpenClaw Challenge
+# Agiens Coding Challenges
 
-This challenge includes three steps.
+Welcome to Agiens! We believe in practical coding challenges that test real-world skills.
 
 1. [Step 1: Deploy OpenClaw with Docker](./challenges/step1)
    - Deploy OpenClaw from scratch in a Docker container.
