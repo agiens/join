@@ -2,57 +2,17 @@
 
 Welcome to Agiens! We believe in practical coding challenges that test real-world skills.
 
-## Available Challenges
+1. [Step 1: Deploy OpenClaw with Docker](./challenges/step1)
+   - Deploy OpenClaw from scratch in a Docker container.
+   - Use any available subscription: Codex, Claude Code, or free QwenCode.
+   - Estimated time: **30–45 minutes**.
 
-### 🔍 File Path Parser Challenge
-**Location:** [challenges/file-parser/](./challenges/file-parser/)  
-**Standalone repo:** [agiens/join-file-parser](https://github.com/agiens/join-file-parser)  
-**Time:** 30-45 minutes  
-**Difficulty:** Medium  
-**Skills:** TypeScript, Regex, Edge Case Handling
+2. [Step 2: Build a Tool That Automates Step 1](./challenges/step2)
+   - Create an automation tool that performs the Step 1 deployment flow.
+   - Estimated time: **30–45 minutes**.
 
-Fix a parser that extracts file paths from AI assistant output. Handle quoted filenames, escaped quotes, and special characters.
+3. [Step 3: Connect the Step 2 Tool to OpenClaw](./challenges/step3)
+   - Integrate the Step 2 tool into OpenClaw.
+   - Estimated time: **30–45 minutes**.
 
-**Why it matters:**
-- Real bug affecting production AI workflows
-- Filenames with spaces, Unicode, special characters break current implementation
-- Thousands of operations processed daily - every failure means lost work
-
-**What you'll learn:**
-- Regex pattern matching with complex edge cases
-- String parsing and quote handling
-- Test-driven development with Vitest
-
----
-
-## How to Participate
-
-### Option 1: Work in this repo (recommended)
-```bash
-git clone https://github.com/agiens/join.git
-cd join/challenges/file-parser
-npm install
-npm test
-```
-
-### Option 2: Use standalone repo
-```bash
-git clone https://github.com/agiens/join-file-parser.git
-cd join-file-parser
-npm install
-npm test
-```
-
-### Submit your solution
-1. Fork this repository or the standalone challenge repo
-2. Fix the code until all tests pass
-3. Commit your changes
-4. Create a pull request or share your repository link
-
----
-
-## Questions?
-
-Open an issue in this repository or contact us.
-
-**Good luck!** 🚀
+If you complete a step very quickly, proceed to the next step.
