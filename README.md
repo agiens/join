@@ -1,13 +1,13 @@
 # Agiens Coding Challenges
 
-Welcome to Agiens! We believe in practical coding challenges that test real-world skills.
+Добро пожаловать в Agiens! Мы верим в практические задания по программированию, которые проверяют навыки, нужные в реальной работе.
 
-It is advisable to use: https://github.com/code-yeongyu/oh-my-opencode
+Задача: реализовать агента OpenClaw, который будет разворачивать OpenClaw через чат-взаимодействие.
 
-We want an OpenClaw agent to be implemented, which will simply deploy the OpenClaw agent using chat communication
+1. [Step 1: Развернуть OpenClaw с помощью Docker](./challenges/step1)
+2. [Step 2: Сделать инструмент, который автоматизирует Шаг 1](./challenges/step2)
+3. [Step 3: Подключить инструмент из Шага 2 к OpenClaw](./challenges/step3)
 
-1. [Step 1: Deploy OpenClaw with Docker](./challenges/step1)
-2. [Step 2: Build a Tool That Automates Step 1](./challenges/step2)
-3. [Step 3: Connect the Step 2 Tool to OpenClaw](./challenges/step3)
+При желании можно использовать: https://github.com/code-yeongyu/oh-my-opencode (но это не обязательно. Вы можете применять любой удобный вам AI-workflow и любые инструменты, к которым вы привыкли)
 
-If you complete a step very quickly, proceed to the next step.
+Если вы быстро завершили этап, переходите к следующему.
