@@ -4,4 +4,4 @@ Deploy OpenClaw from scratch in a Docker container using any available subscript
 
 Estimated execution time: **30–45 minutes**.
 
-If you completed this task very quickly, move on to [Step 2](./step2).
+If you completed this task very quickly, move on to [Step 2](../step2).
