@@ -1,9 +1,9 @@
-# Step 2: Build an Automatic Step 1 Tool
+# Step 2: Сделать инструмент, который автоматизирует Step 1
 
-Create a tool that automatically performs [Step 1](../step1).
+Создайте инструмент, который автоматически выполняет [Step 1](../step1).
 
-The tool must deploy OpenClaw from scratch in Docker and support any available subscription: Codex, Claude Code, or the free QwenCode option.
+Инструмент должен разворачивать OpenClaw с нуля в Docker и поддерживать любую доступную подписку: Codex, Claude Code или бесплатный вариант QwenCode.
 
-Expected execution time: **30–45 minutes**.
+Ожидаемое время выполнения: **30–45 минут**.
 
-If you completed this task very quickly, move on to [Step 3](../step3).
+Если вы справились с этой задачей очень быстро, переходите к [Step 3](../step3).
