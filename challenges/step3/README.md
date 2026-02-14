@@ -1,7 +1,7 @@
-# Step 3: Connect Step 2 Tool to OpenClaw
+# Step 3: Подключить инструмент из Step 2 к OpenClaw
 
-Integrate the tool created in [Step 2](../step2) into OpenClaw.
+Интегрируйте инструмент, созданный на [Step 2](../step2), в OpenClaw.
 
-Use it as the automated execution path for [Step 1 ](../step1)so OpenClaw can directly trigger deployment without manual setup.
+В результате вы должны иметь возможность, общаясь с OpenClaw в Telegram, запускать автоматическое развёртывание OpenClaw-агента — без ручной настройки.
 
-Expected execution time: **30–45 minutes**.
+Ожидаемое время выполнения: **30–45 минут**.
