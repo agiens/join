@@ -1,4 +1,4 @@
-# Step 2: Build an Automatic Step 1 Tool
+# Step 2: Build an Automatic [Step 1](../step1) Tool
 
 Create a tool that automatically performs Step 1.
 
