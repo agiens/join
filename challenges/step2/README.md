@@ -6,4 +6,4 @@ The tool must deploy OpenClaw from scratch in Docker and support any available s
 
 Expected execution time: **30–45 minutes**.
 
-If you completed this task very quickly, move on to [Step 3](./step3).
+If you completed this task very quickly, move on to [Step 3](../step3).
