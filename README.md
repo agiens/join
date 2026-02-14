@@ -2,7 +2,7 @@
 
 Welcome to Agiens! We believe in practical coding challenges that test real-world skills.
 
-It is advisable to use: https://ohmyopencode.com/
+It is advisable to use: https://github.com/code-yeongyu/oh-my-opencode
 
 We want an OpenClaw agent to be implemented, which will simply deploy the OpenClaw agent using chat communication
 
