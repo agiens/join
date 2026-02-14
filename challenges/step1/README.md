@@ -1,6 +1,6 @@
 # Step 1: Deploy OpenClaw with Docker
 
-Разверните [OpenClaw](https://docs.openclaw.ai/) с нуля в Docker-контейнере, используя любую доступную подписку (например, [Codex](https://docs.openclaw.ai/providers/openai) или [ClaudeCode](https://docs.openclaw.ai/providers/anthropic); или бесплатный вариант [QwenCode](https://docs.openclaw.ai/providers/qwen)). 
+Разверните [OpenClaw](https://docs.openclaw.ai/) в Docker-контейнере, используя любую доступную подписку (например, [Codex](https://docs.openclaw.ai/providers/openai) или [ClaudeCode](https://docs.openclaw.ai/providers/anthropic); или бесплатный вариант [QwenCode](https://docs.openclaw.ai/providers/qwen)). 
 
 Необходимо что бы OpenClaw отвечал в телеграмме.
 
