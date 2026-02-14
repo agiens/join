@@ -5,5 +5,3 @@ Integrate the tool created in Step 2 into OpenClaw.
 Use it as the automated execution path for Step 1 so OpenClaw can directly trigger deployment without manual setup.
 
 Expected execution time: **30–45 minutes**.
-
-If you completed this task very quickly, move on to the next stage of the challenge.
