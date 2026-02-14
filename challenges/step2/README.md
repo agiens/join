@@ -1,6 +1,6 @@
-# Step 2: Build an Automatic [Step 1](../step1) Tool
+# Step 2: Build an Automatic Step 1 Tool
 
-Create a tool that automatically performs Step 1.
+Create a tool that automatically performs [Step 1](../step1).
 
 The tool must deploy OpenClaw from scratch in Docker and support any available subscription: Codex, Claude Code, or the free QwenCode option.
 
